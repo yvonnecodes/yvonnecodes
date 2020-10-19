@@ -1,4 +1,4 @@
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:37.69%;position:relative;"><iframe width="260" height="98" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4j3ju3"></iframe></div><p><a href="https://imgflip.com/gif/4j3ju3">via Imgflip</a></p></div>
+![](images/banner_1.jpg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/yvonne-wyne-9680b1173/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:customersupport@vonniecodes.com)](mailto:customersupport@vonniecodes.com)
 
